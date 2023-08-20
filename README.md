@@ -1,12 +1,12 @@
 # CS-330-Comp-Graphic-and-Visualization
 
-### How do I approach designing software?
+#### How do I approach designing software?
 	Designing a program must begin with a solid planning phase. The time saved by a little research at the start of a project greatly influences the timely completion of a project. For example, there glew library is easy to setup, but there are more robust libraries, like glut, that can assist when creating of more complex shapes.
 
-### What new design skills has your work on the project helped you to craft?
+#### What new design skills has your work on the project helped you to craft?
 	During this project I learned to do more research prior to starting a project. There are specialized methods that could make it much easier to create certain shapes.
  
-### What design process did you follow for your project work?
+#### What design process did you follow for your project work?
 	 The project was broken down into milestones, and every milestone added a little more complexity. Starting with a simple primitive shape, to a multiple shape object, then adding color, multiple objects, textures, camera movement, and lighting.
   
 ### How could tactics from your design approach be applied in future work?
